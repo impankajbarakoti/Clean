@@ -66,7 +66,7 @@ const ArrowRightIcon = () => (
 );
 // --- End Icon Placeholders ---
 
-const PopularServicesSection = () => {
+const PopularServicesSections = () => {
   // The chair image URL you provided
   const CHAIR_IMAGE_URL =
     "https://qleen.bold-themes.com/demo-01/wp-content/uploads/sites/2/2025/08/moving_cards_image_01.png";
@@ -170,4 +170,4 @@ const PopularServicesSection = () => {
   );
 };
 
-export default PopularServicesSection;
+export default PopularServicesSections;
